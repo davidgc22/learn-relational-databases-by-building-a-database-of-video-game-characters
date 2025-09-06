@@ -1,2 +1,1 @@
 psql --username=freecode --dbname=postgres
-psql --username=freecode --dbname=postgres
