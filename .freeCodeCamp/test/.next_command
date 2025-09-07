@@ -34,3 +34,9 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git pull
+git pull
+git commit-m miscambioslocales
+git commit-m cambioslocales
+git pull
+git add.
+git add .
