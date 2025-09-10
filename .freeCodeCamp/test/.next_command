@@ -52,3 +52,4 @@ git reset hard
 git commit
 git pull
 git push
+psql --username=freecodecamp --dbname=postgres
